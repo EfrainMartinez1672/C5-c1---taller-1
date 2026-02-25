@@ -1,1 +1,1 @@
-print("hola mundo. como estas")
+saldo = 1000
