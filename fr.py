@@ -60,4 +60,4 @@ for i in range(opciones):
         except ValueError:
             print("opcion invalida, solo ponga numeros y enteros")
 
-print("gracias por usar nuestros cajero")
+print("gracias por usar nuestros cajero.")
